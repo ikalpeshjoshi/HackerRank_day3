@@ -1,0 +1,2 @@
+# HackerRank_day3
+HACKERRANK DAY 3 CODE
